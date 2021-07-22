@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/def-p.iml" filepath="$PROJECT_DIR$/def-p.iml" />
+      <module fileurl="file://$PROJECT_DIR$/def-threads.iml" filepath="$PROJECT_DIR$/def-threads.iml" />
     </modules>
   </component>
 </project>
